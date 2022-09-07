@@ -96,3 +96,5 @@ Changes to be committed:
 ```
 git commit --amend -m "Новый комментарий"
 ```
+
+*Увидимся на следующих занятия!*
